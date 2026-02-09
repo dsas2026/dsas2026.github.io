@@ -10,12 +10,12 @@ url: "https://dsas2026.github.io"
 header_pages:
   - index.md
 
-# Optional
-markdown: kramdowntitle: DSAS-AI @ DSN 2026
+title: DSAS-AI @ DSN 2026
 description: Dependable and Secure Autonomous Systems: Space and Drone Technologies in the Age of AI
 theme: minima
 
 # Optional: show download links off
+markdown: kramdown
 show_downloads: false
 
 # If using Option A (project site), set baseurl to your repo name
