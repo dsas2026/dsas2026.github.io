@@ -1,0 +1,155 @@
+---
+---
+
+@import "minima";
+
+/* ---------- Design tokens ---------- */
+:root {
+  --dsas-bg: #0b1220;
+  --dsas-card: #0f1a30;
+  --dsas-text: #0b1220;
+  --dsas-muted: #5b6472;
+  --dsas-border: rgba(15, 26, 48, 0.12);
+  --dsas-accent: #2563eb; /* blue */
+  --dsas-accent-2: #0ea5e9; /* cyan */
+  --dsas-pill: rgba(37, 99, 235, 0.10);
+}
+
+/* ---------- Typography ---------- */
+body {
+  font-feature-settings: "ss01" 1, "cv01" 1;
+}
+
+.site-title, .site-title:visited {
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.post-title, h1, h2, h3 {
+  letter-spacing: -0.2px;
+}
+
+/* ---------- Layout polish ---------- */
+.page-content {
+  padding-top: 1.5rem;
+}
+
+.wrapper {
+  max-width: 980px;
+}
+
+/* ---------- Hero ---------- */
+.hero {
+  margin: 0 0 1.75rem 0;
+  border: 1px solid var(--dsas-border);
+  border-radius: 18px;
+  overflow: hidden;
+  background: linear-gradient(120deg, var(--dsas-bg), #111b33 45%, #0b1220);
+  color: #fff;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.10);
+}
+
+.hero-inner {
+  padding: 2.25rem 1.75rem;
+}
+
+.hero-eyebrow {
+  font-size: 0.85rem;
+  opacity: 0.85;
+  margin-bottom: 0.65rem;
+}
+
+.hero-title {
+  margin: 0 0 0.5rem 0;
+  font-size: 2rem;
+  line-height: 1.15;
+}
+
+.hero-subtitle {
+  margin: 0 0 1rem 0;
+  font-size: 1.05rem;
+  opacity: 0.9;
+}
+
+/* ---------- Badges ---------- */
+.hero-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.75rem 0 1.25rem 0;
+}
+
+.badge {
+  display: inline-flex;
+  padding: 0.35rem 0.6rem;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.12);
+  border: 1px solid rgba(255,255,255,0.16);
+  font-size: 0.85rem;
+}
+
+/* ---------- Buttons ---------- */
+.hero-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.55rem 0.85rem;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.20);
+  text-decoration: none !important;
+  font-weight: 600;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--dsas-accent), var(--dsas-accent-2));
+  color: #fff !important;
+  border-color: rgba(255,255,255,0.10);
+}
+
+.btn-secondary {
+  background: rgba(255,255,255,0.10);
+  color: #fff !important;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+  transition: transform 120ms ease;
+}
+
+/* ---------- Tables ---------- */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--dsas-border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+table th, table td {
+  padding: 0.55rem 0.7rem;
+  border-bottom: 1px solid var(--dsas-border);
+}
+
+table tr:last-child td {
+  border-bottom: none;
+}
+
+table th {
+  background: rgba(15, 26, 48, 0.04);
+}
+
+/* ---------- Links ---------- */
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}

@@ -1,0 +1,31 @@
+title: DSAS2026 Workshop @ DSN 2026
+description: Dependable and Secure Autonomous Systems — Space and Drone/UAV Technologies in the Age of AI
+theme: minima
+
+# For user/org sites, keep baseurl empty
+baseurl: ""
+url: "https://dsas2026.github.io"
+
+# Navigation
+header_pages:
+  - index.md
+  - cfp.md
+  - program.md
+  - organizers.md
+  - pc.md
+
+# Optional
+markdown: kramdowntitle: DSAS-AI @ DSN 2026
+description: Dependable and Secure Autonomous Systems: Space and Drone Technologies in the Age of AI
+theme: minima
+
+# Optional: show download links off
+show_downloads: false
+
+# If using Option A (project site), set baseurl to your repo name
+# Example: baseurl: "/dsas-ai-dsn2026"
+baseurl: "/dsas2026"
+url: ""
+
+header_pages:
+  - index.md
