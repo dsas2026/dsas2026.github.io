@@ -9,10 +9,6 @@ url: "https://dsas2026.github.io"
 # Navigation
 header_pages:
   - index.md
-  - cfp.md
-  - program.md
-  - organizers.md
-  - pc.md
 
 # Optional
 markdown: kramdowntitle: DSAS-AI @ DSN 2026
