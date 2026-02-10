@@ -511,3 +511,12 @@ body.home .page-header {
   padding: 0 !important;
   margin: 0 !important;
 }
+
+/* Home layout: suppress Tactile header/title block */
+.home-content + header,
+header.page-header,
+.page-header {
+  display: none;
+}
+
+.page-header { display: none !important; }

@@ -1,7 +1,8 @@
 
 ---
-layout: default
+layout: home
 title: DSAS2026 Workshop @ DSN 2026
+permalink: /
 ---
 
 <div class="hero"></div>
