@@ -15,10 +15,10 @@ title: DSAS2026 Workshop @ DSN 2026
       <span class="badge">Open &amp; Unclassified Research Only</span>
       <span class="badge">Dependability • Security • AI/ML Assurance</span>
     </div>
-    <div class="hero-cta">
+    <!--div class="hero-cta">
       <a class="btn btn-primary" href="/cfp/">Call for Papers</a>
       <a class="btn btn-secondary" href="/program/">Program</a>
-    </div>
+    </div-->
   </div>
 </div>
 

@@ -381,3 +381,102 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
+
+/* =========================
+   DSAS2026 custom styles
+   ========================= */
+
+/* Hero banner (used by index.md <div class="hero">...) */
+.hero {
+  margin: 20px 0 28px 0;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 14px;
+  overflow: hidden;
+
+  /* Image + dark overlay for readability */
+  background:
+    linear-gradient(rgba(0,0,0,0.50), rgba(0,0,0,0.62)),
+    url("/assets/images/dsas-header.png") center / cover no-repeat;
+
+  color: #fff;
+  text-shadow: none;
+}
+
+.hero-inner {
+  padding: 26px 22px;
+}
+
+.hero-eyebrow {
+  font-size: 13px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  opacity: 0.9;
+  margin-bottom: 10px;
+}
+
+.hero-title {
+  font-size: 34px;
+  line-height: 1.15;
+  margin-bottom: 8px;
+  color: #fff;
+  font-weight: 900;
+}
+
+.hero-subtitle {
+  font-size: 16px;
+  margin-bottom: 14px;
+  opacity: 0.92;
+}
+
+.hero-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 8px 0 16px 0;
+}
+
+.badge {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 999px;
+  font-size: 13px;
+  border: 1px solid rgba(255,255,255,0.22);
+  background: rgba(255,255,255,0.10);
+}
+
+/* Buttons in the hero */
+.hero-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.25);
+  text-decoration: none;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.btn:hover { opacity: 0.95; }
+
+.btn-primary {
+  color: #fff !important;
+  background: linear-gradient(to top, #2b6cb0 0%, #4aa3ff 100%);
+  border-color: rgba(255,255,255,0.15);
+}
+
+.btn-secondary {
+  color: #fff !important;
+  background: rgba(255,255,255,0.12);
+}
+
+/* Improve readability on small screens */
+@media (max-width: 720px) {
+  .inner { width: auto; padding: 0 14px; }
+  .hero-title { font-size: 26px; }
+}
+
