@@ -1,7 +1,3 @@
----
-layout: default
-title: DSAS2026 Workshop @ DSN 2026
----
 
 <div class="hero">
   <div class="hero-inner">
@@ -21,6 +17,10 @@ title: DSAS2026 Workshop @ DSN 2026
     </div-->
   </div>
 </div>
+
+---
+layout: default
+---
 
 ## Overview
 **DSAS2026** is a full-day workshop proposed for **DSN 2026** focused on the dependability and security of **autonomous systems** spanning:
