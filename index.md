@@ -1,21 +1,5 @@
 
 <div class="hero">
-  <div class="hero-inner">
-    <!--div class="hero-eyebrow">Workshop Proposal • DSN 2026</div>
-    <h1 class="hero-title">DSAS2026: Dependable and Secure Autonomous Systems</h1>
-    <p class="hero-subtitle">
-      Space and Drone/UAV Technologies in the Age of AI/ML
-    </p-->
-    <div class="hero-badges">
-      <span class="badge">Full-day</span>
-      <span class="badge">Open &amp; Unclassified Research Only</span>
-      <span class="badge">Dependability • Security • AI/ML Assurance</span>
-    </div>
-    <!--div class="hero-cta">
-      <a class="btn btn-primary" href="/cfp/">Call for Papers</a>
-      <a class="btn btn-secondary" href="/program/">Program</a>
-    </div-->
-  </div>
 </div>
 
 ---
