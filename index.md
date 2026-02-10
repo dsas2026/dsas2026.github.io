@@ -5,11 +5,11 @@ title: DSAS2026 Workshop @ DSN 2026
 
 <div class="hero">
   <div class="hero-inner">
-    <div class="hero-eyebrow">Workshop Proposal • DSN 2026</div>
+    <!--div class="hero-eyebrow">Workshop Proposal • DSN 2026</div>
     <h1 class="hero-title">DSAS2026: Dependable and Secure Autonomous Systems</h1>
     <p class="hero-subtitle">
       Space and Drone/UAV Technologies in the Age of AI/ML
-    </p>
+    </p-->
     <div class="hero-badges">
       <span class="badge">Full-day</span>
       <span class="badge">Open &amp; Unclassified Research Only</span>
