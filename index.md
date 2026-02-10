@@ -33,7 +33,7 @@ We invite **original, unpublished research contributions** in the following cate
 
 ### Submission Types
 - **Full papers:** up to **6 pages**, IEEE two-column format (references excluded)  
-- **Short / Work-in-Progress papers:** up to **4 pages**, IEEE two-column format (references excluded)
+- **Short / Work-in-Progress papers:** up to **4 pages**, IEEE two-column format (references included)
 
 ### Submission Site
 All papers must be submitted via EasyChair:
