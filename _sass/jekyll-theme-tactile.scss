@@ -480,3 +480,17 @@ footer a:hover {
   .hero-title { font-size: 26px; }
 }
 
+/* =========================
+   DSAS2026: image-only header
+   ========================= */
+
+/* Hide all text/buttons inside the hero */
+.hero-inner {
+  display: none;
+}
+
+/* Make the hero a pure image banner */
+.hero {
+  min-height: 280px;   /* adjust height: 220–320px is typical */
+  margin-bottom: 32px; /* space before Overview section */
+}

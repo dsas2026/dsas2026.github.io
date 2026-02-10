@@ -1,10 +1,11 @@
 
-<div class="hero">
-</div>
-
 ---
 layout: default
+title: DSAS2026 Workshop @ DSN 2026
 ---
+
+<div class="hero"></div>
+
 
 ## Overview
 **DSAS2026** is a full-day workshop proposed for **DSN 2026** focused on the dependability and security of **autonomous systems** spanning:
@@ -31,6 +32,10 @@ Dates will be posted here once finalized:
 - Notification: **April 15, 2026, AoE**
 - Camera-ready: **April 27, 2026, AoE (hard deadline)**
 - Workshop day: **June 22, 2026 (tentative)**
+
+## Submission
+https://easychair.org/conferences/?conf=dsn_2026
+
 
 ## Contact
 For questions: **gkul@umassd.edu**
