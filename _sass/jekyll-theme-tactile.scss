@@ -494,3 +494,20 @@ footer a:hover {
   min-height: 280px;   /* adjust height: 220–320px is typical */
   margin-bottom: 32px; /* space before Overview section */
 }
+
+
+/* Hide theme header text on the home page only */
+body.home header h1,
+body.home header h2,
+body.home .page-header,
+body.home .project-name,
+body.home .project-tagline {
+  display: none !important;
+}
+
+/* Remove extra top padding/margin that would remain */
+body.home header,
+body.home .page-header {
+  padding: 0 !important;
+  margin: 0 !important;
+}
