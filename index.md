@@ -18,13 +18,38 @@ The workshop emphasizes the impact of **AI/ML-enabled autonomy** on assurance, r
 ## Topics of Interest
 Topics of interest include, but are not limited to:
 
-- Dependability, fault tolerance, and resilience for autonomous space and UAV systems  
-- Secure sensing and communications; **spoofing and jamming resilience**  
-- AI/ML assurance: robustness, adversarial ML, runtime monitoring  
-- Verification, validation, and certification of learning-enabled autonomy  
-- Swarms and multi-agent dependability and security  
-- Incident response, recovery, and mission assurance  
-- Metrics, benchmarks, datasets, and open testbeds  
+
+**Dependability and Security of Space Systems**
+
+- Fault tolerance, resilience, and survivability of space platforms
+- Failure modeling and dependability analysis under space-specific constraints
+- Secure and dependable ground–space and inter-satellite communications
+- Jamming, spoofing, and interference resilience
+- Mission assurance and lifecycle dependability (launch, operations, decommissioning)
+
+**Dependability and Security of Drone/UAV Systems**
+
+- Fault tolerance and resilient autonomy for UAVs under resource and energy constraints
+- Secure navigation and sensing (e.g., spoofing/jamming resilience, sensor fusion)
+- Safety assurance, failsafe behaviors, and graceful degradation (e.g., safe landing modes)
+- Dependability and security of drone swarms / multi-agent coordination
+- Empirical studies, datasets, and testbeds for UAV reliability and security
+
+**AI/ML in Space and Drone/UAV Systems**
+
+- Dependability and robustness of AI/ML-enabled space components
+- Verification, validation, and certification of learning-based space systems
+- AI-driven autonomy, planning, and control under uncertainty
+- Adversarial ML threats in space environments
+- Trust, explainability, and runtime monitoring for AI in space missions
+- Human–AI interaction and decision-making in mission-critical space operations
+
+**Cross-Cutting Themes**
+
+- Metrics, benchmarks, and datasets for space system dependability and security
+- Secure software and hardware supply chains for space technologies
+- Resilience and recovery from on-orbit anomalies or cyber-physical attacks
+- Case studies and lessons learned from open, unclassified space missions
 
 ---
 
