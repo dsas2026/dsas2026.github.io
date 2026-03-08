@@ -1,7 +1,12 @@
 description: Dependable and Secure Autonomous Systems — Space and Drone/UAV Technologies in the Age of AI
-theme: jekyll-theme-tactile
+
 showdownloads: false
 
 baseurl: ""
 url: "https://dsas2026.github.io"
+
+plugins:
+  - jekyll-include-cache
+
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v4.0.1"
 

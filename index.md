@@ -18,7 +18,6 @@ The workshop emphasizes the impact of **AI/ML-enabled autonomy** on assurance, r
 ## Topics of Interest
 Topics of interest include, but are not limited to:
 
-
 **Dependability and Security of Space Systems**
 
 - Fault tolerance, resilience, and survivability of space platforms
