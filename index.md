@@ -1,10 +1,7 @@
 ---
 layout: home
-title: DSAS2026 Workshop @ DSN 2026
-permalink: /
+author_profile: true
 ---
-
-<div class="hero"></div>
 
 ## Overview
 **DSAS2026 – Dependable and Secure Autonomous Systems** is a **full-day workshop at DSN 2026** focusing on the dependability and security of **autonomous systems** across:
