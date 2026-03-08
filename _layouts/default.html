@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }} | {{ site.title }}</title>
@@ -28,101 +28,4 @@
 </footer>
 
 </body>
-</html><!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title }} | {{ site.title }}</title>
-
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-</head>
-
-<body>
-
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <nav>
-      {% for item in site.data.navigation.main %}
-        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-      {% endfor %}
-    </nav>
-  </div>
-</div>
-
-<div class="initial-content">
-  <div class="page">
-    <div class="page__inner-wrap">
-
-      <section class="page__content">
-        {{ content }}
-      </section>
-
-    </div>
-  </div>
-</div>
-
-</body>
-</html><!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-</head>
-
-<body>
-
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <h1 class="site-title">{{ site.title }}</h1>
-
-    <nav>
-      {% for item in site.data.navigation.main %}
-        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-      {% endfor %}
-    </nav>
-  </div>
-</div>
-
-<div id="main" role="main">
-  <div class="page__inner-wrap">
-
-    <section class="page__content">
-      {{ content }}
-    </section>
-
-  </div>
-</div>
-
-</body>
-</html>---
-layout: compress
----
-
-{% include base_path %}
-
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
 </html>
