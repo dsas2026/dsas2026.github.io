@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Your Name / Site TitleDependable and Secure Autonomous Systems — Space and Drone/UAV Technologies in the Age of AI"
 title_separator          : "-"
 name                     : &name "Your Name"
