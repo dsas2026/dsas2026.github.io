@@ -4,4 +4,4 @@ title: Organizers
 permalink: /organizers/
 ---
 
-- Gokhan Kul – University of Massachusetts Dartmouth
+- Gokhan Kul, University of Massachusetts Dartmouth
