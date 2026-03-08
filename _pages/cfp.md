@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /cfp/
 title: "Call for Papers"
 ---
