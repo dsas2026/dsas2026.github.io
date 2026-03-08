@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /cfp/
-title: "Call for Papers -- Submission Instructions"
+title: "Call for Papers"
 ---
 
 ## Paper Submission
