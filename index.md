@@ -46,7 +46,13 @@ Topics of interest include, but are not limited to:
 - Secure software and hardware supply chains for space technologies
 - Resilience and recovery from on-orbit anomalies or cyber-physical attacks
 - Case studies and lessons learned from open, unclassified space missions
+---
 
+## Important Dates
+- **Paper submission:** March 22, 2026 (AoE)  
+- **Notification of acceptance:** April 10, 2026 (AoE)  
+- **Camera-ready deadline:** April 27, 2026 (AoE, hard deadline)  
+- **Workshop date:** June 22, 2026 (during DSN 2026)
 ---
 
 ### Submission Site

@@ -24,8 +24,8 @@ All submissions will be peer-reviewed by the workshop Program Committee. Each pa
 ---
 
 ## Important Dates
-- **Paper submission:** March 15, 2026 (AoE)  
-- **Notification of acceptance:** April 15, 2026 (AoE)  
+- **Paper submission:** March 22, 2026 (AoE)  
+- **Notification of acceptance:** April 10, 2026 (AoE)  
 - **Camera-ready deadline:** April 27, 2026 (AoE, hard deadline)  
 - **Workshop date:** June 22, 2026 (during DSN 2026)
 
@@ -43,7 +43,7 @@ Regular papers (6 pages): a full paper describing a research contribution, inclu
 
 Short papers (4 pages): a shorter paper describing, blue-sky ideas, work-in-progress research, experiences or lessons learned applying tools and techniques to real-world problems and systems, or based on the empirical analysis of field data using a rigorous scientific approach. A paper in this category is expected to show new insights and experiences informing the research and practice of robust computing system design. Contributions reporting on industry practical experiences and lessons learned are highly encouraged, including studies reporting negative results or challenges about the practical applicability or scalability of research results in industry.
 
-The number of pages indicated above includes everything: title page, text, figures, references, appendices, etc. Papers that exceed the number of pages for that submission category will be rejected without review.
+The number of pages indicated above includes everything: title page, text, figures, appendices, etc., excluding references. Papers that exceed the number of pages for that submission category will be rejected without review.
 
 Independently of the paper category, we expect all papers to provide enough detail to enable the reproducibility of their experimental results and encourage authors, whenever possible, to make both the artifacts and datasets related to the paper publicly available.
 
