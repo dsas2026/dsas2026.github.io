@@ -24,7 +24,7 @@ All submissions will be peer-reviewed by the workshop Program Committee. Each pa
 ---
 
 ## Important Dates
-- **Paper submission:** March 22, 2026 (AoE)  
+- **Paper submission:** March 22, 2026 (AoE, hard deadline)  
 - **Notification of acceptance:** April 10, 2026 (AoE)  
 - **Camera-ready deadline:** April 27, 2026 (AoE, hard deadline)  
 - **Workshop date:** June 22, 2026 (during DSN 2026)
