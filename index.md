@@ -49,7 +49,8 @@ Topics of interest include, but are not limited to:
 ---
 
 ## Important Dates
-- **Paper submission:** March 22, 2026 (AoE)  
+- **Paper submission:** ~~March 22, 2026 (AoE)~~  
+  **March 31, 2026 (AoE)** 🔴 **EXTENDED DEADLINE**
 - **Notification of acceptance:** April 10, 2026 (AoE)  
 - **Camera-ready deadline:** April 27, 2026 (AoE, hard deadline)  
 - **Workshop date:** June 22, 2026 (during DSN 2026)
