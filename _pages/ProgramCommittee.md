@@ -11,6 +11,7 @@ permalink: /programcommittee/
 - Magnolia Bhattacharya, Illinois State University
 - Savio Sciancalepore, Eindhoven University of Technology
 - Berker Pekiz, Embry Riddle Aeronautical University
+- Surabhi Bhadauria, Embry Riddle Aeronautical University
 - Rudra Prasad Baksi, Illinois State University
 - Merve K. Dogan, Embry Riddle Aeronautical University
 - Goktug Ekinci, University of Massachusetts Dartmouth
