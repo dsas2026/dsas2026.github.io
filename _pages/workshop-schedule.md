@@ -1,3 +1,9 @@
+---
+layout: default
+title: Program Committee
+permalink: /workshop-schedule/
+---
+
 # Joint Workshop Program: DSAS–DT4DRS
 
 ---
