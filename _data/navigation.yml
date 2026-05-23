@@ -16,6 +16,9 @@ main:
 
   - title: "Program Committee"
     url: /programcommittee/
+
+  - title: "Workshop Program"
+    url: /workshop-schedule/
     
   # - title: "CV"
   #   url: /cv-json/
